@@ -1,0 +1,66 @@
+
+/* header style */
+.header-bg-color{
+    background-color: #264653;
+}
+
+.custom-btn-color{
+    color: #E76F51;
+}
+
+/* Fetured Style section */
+
+.grayscale-color{
+  filter: grayscale(100);
+}
+
+.custom-font-color{
+    color: #E76F51;
+}
+
+hr{
+    width: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: chocolate;
+}
+
+
+/* Client Review style Section  */
+.text-align{
+    text-align: center;
+}
+
+
+.mdi-36px {
+     font-size: 39px;
+     margin-right: 10px
+ }
+
+ .container {
+     margin-top: 20px
+ }
+
+ .flex {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+/* Footer style Section  */
+
+.footer-bg-color{
+    background-color:#0B0D17;
+;
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+
+.custom-text-light{
+    opacity: 80%;
+    color: aliceblue;
+    font-size:medium;
+    font-weight: 100;
+}
